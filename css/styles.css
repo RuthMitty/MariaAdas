@@ -1,0 +1,204 @@
+.name_user {
+    position: absolute;
+    width: 408px;
+    height: 38px;
+    left: 855px;
+    top: 22px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+}
+
+.bar{
+    position: absolute;
+    width: 223px;
+    height: 938px;
+    left: 0px;
+    top: 86px;
+
+    background: #80D8EB;
+}
+
+.menu-exp{
+    position: absolute;
+    width: 131px;
+    height: 31px;
+    left: 25px;
+    top: 140px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+
+    color: #000000;
+
+}
+
+.menu-perfil{
+    position: absolute;
+    width: 55px;
+    height: 31px;
+    left: 26px;
+    top: 233px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+
+    color: #000000;
+
+}
+
+.navegacion{
+    position: absolute;
+    width: 395px;
+    height: 44px;
+    left: 345px;
+    top: 117px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.contrapartes {
+    position: absolute;
+    width: 198px;
+    height: 44px;
+    left: 345px;
+    top: 217px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.fichas{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 263px;
+    height: 268px;
+    left: 710px;
+    top: 249px;
+
+    border: 1px solid #908CD1;
+
+}
+
+.titulo_datospersonales {
+    position: absolute;
+    width: 258px;
+    height: 44px;
+    left: 345px;
+    top: 201px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.nombre-edad-abogado{
+    position: absolute;
+    width: 292px;
+    height: 25px;
+    left: 345px;
+    top: 279px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+.sexo{
+    position: absolute;
+    width: 134px;
+    height: 25px;
+    left: 710px;
+    top: 339px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+.categorias{
+    position: absolute;
+    width: 160px;
+    height: 44px;
+    left: 346px;
+    top: 499px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    color: #000000;
+}
+
+.nombre_formulario{
+    position: absolute;
+    width: 101px;
+    height: 44px;
+    left: 345px;
+    top: 218px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    /* identical to box height */
+    color: #000000;
+
+}
+
+.pregunta{
+    position: absolute;
+    width: 237px;
+    height: 23px;
+    left: 345px;
+    top: 556px;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.barraverde{
+    position: absolute;
+    width: 1440px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #00C3AD;
+}
