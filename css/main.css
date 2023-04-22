@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #F5F5F5;;
+}
+header{
+    position: relative;
+    width: 100%;
+    height: 86px;
+    background-color:  #00C3AD;
+}
+header nav{
+    line-height: 50px;
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+header nav div{
+    display: inline-block;
+}
+p{
+    display: block;
+    float: right;
+    padding: 0px 10px;
+
+}
+.boton{
+    position: relative;
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    justify-content: right;
+    align-items: right;
+    padding-right: 4%;
+}
+div .logo{
+    position: relative;
+    float:  left;
+}
+.imglogo{
+    position: relative;
+    float: left;
+    padding: 0% 90%;
+}
+.container{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;  
+    flex-direction: column;
+}
+.principal{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 271px 0px;
+    background: linear-gradient(#84B7E2, #908CD1);
+    flex-direction: column;
+}
+section{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding:30px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#text{
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 112px;
+    display: flex;
+    align-items: center;
+}
+#botonprin{
+    text-decoration: none;
+    display: flex;
+    padding: 8px 30px;
+    border-radius: 40px;
+    color: #908CD1    ;
+    background: #6FE4A8;
+    font-size: 1.5em;
+    transform: translateY(100px);
+
+}
+
+.objectivo{
+    display: flex;
+    background-color: #7BD4CE;
+    width: 100%;
+    flex-direction: column;
+}
+.textobj{
+    padding: 126px 275px;
+    text-align: center;
+    background-color: #7BD4CE;
+}
+.funcionamiento{
+    display: flex;
+    background-color: #92A8E8;
+    width: 100%;
+    flex-direction: column;
+}
+h3{
+    width: 40PX;
+    padding: 10PX 5PX;
+    left: 102px;
+    top: 1376px;
+
+    background: #27418E;
+    border-radius: 20px;
+}
+
+.somos{
+    display: flex;
+    background-color: #908CD1;
+    width: 100%;
+    flex-direction: column;
+}
+.contacto{
+    display: flex;
+    background-color:#84B8DD;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+.footer {
+	background-color: #00C3AD;;
+	padding: 10px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+    height: 86 px;
+	width: 100%;
+}
+.divfooter{
+    top: 100%;
+    line-height: 50px;
+    display:flex;
+    justify-content: space-between;
+    padding-bottom: 1%;
+    padding-top: 1%;
+
+}
